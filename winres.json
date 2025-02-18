@@ -1,0 +1,24 @@
+{
+  "RT_VERSION": {
+    "#1": {
+      "0407": {
+        "fixed": {
+          "file_version": "0.0.0.0",
+          "product_version": "0.0.0.0"
+        },
+        "info": {
+          "0407": {
+            "CompanyName": "My Company",
+            "FileDescription": "My Product",
+            "FileVersion": "0,0,0,0",
+            "InternalName": "My Product",
+            "LegalCopyright": "Copyright (C) 2025 My Company",
+            "OriginalFilename": "bin.exe",
+            "ProductName": "My Product",
+            "ProductVersion": "0,0,0,0"
+          }
+        }
+      }
+    }
+  }
+}
